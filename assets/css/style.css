@@ -1,0 +1,75 @@
+/*TITULO*/
+.fondo {
+    background-image: url(../css/banner.jpg);
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 16px 20px 70px 18px;
+    padding-left: 40px;
+    padding-top: 70px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.titulo {
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Franklin Gothic;
+}
+
+/*TABLA DE PRODUCTOS*/
+table {
+    margin: 0px auto;
+    width: 80%;
+}
+
+/*THEAD*/
+thead {
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/*TBODY*/
+img {
+    height: 100px
+}
+
+td {
+    text-align: center;
+}
+
+.precio {
+    font-size: 30px;
+    color: rgb(2, 120, 112);
+    font-weight: bold;
+}
+
+th,
+td {
+    border: solid 2px #eee;
+}
+
+/*PIE DE PAGINA*/
+footer {
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(243, 241, 241);
+    border: 5px rgb(230, 227, 227) solid;
+}
+
+.wide {
+    height: 30px;
+}
+
+.tamano {
+    font-size: 10px;
+    font-family: arial;
+    font-weight: bold;
+    color: black;
+}
